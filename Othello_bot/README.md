@@ -1,1 +1,0 @@
-# AI-project-2-othello
